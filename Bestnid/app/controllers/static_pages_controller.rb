@@ -1,10 +1,10 @@
 class StaticPagesController < ApplicationController
+  def Sobre_bestnid
+  end
+
   def Ayuda
   end
 
   def Contacto
-  end
-
-  def Sobre_Bestnid
   end
 end
